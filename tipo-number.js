@@ -17,3 +17,4 @@ if (statusAluno){
 }
 
 console.log('A média é ' + total.toFixed(2) + ' e você foi' + mensagemFinal);
+//Comentário teste
